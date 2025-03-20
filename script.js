@@ -26,6 +26,6 @@ function RunAuto() {
   }, 700);
 }
 
-// setInterval(() => {
-//   RunAuto();
-// }, 1500);
+setInterval(() => {
+  RunAuto();
+}, 1500);
